@@ -1,0 +1,6 @@
+{
+  "name": "LocalJira",
+  "description": "A lightweight, self-hosted, privacy-focused Jira alternative for local ticket management with SQLite persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
